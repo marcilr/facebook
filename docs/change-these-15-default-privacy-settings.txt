@@ -9,9 +9,117 @@ by Geoffrey A. Fowler, The Washington Post
 3 JUN 2018
 
 
+On the Internet, the devil's in the defaults.
+
+You're not reading all those updated data policies flooding
+your inbox.  You probably haven't even looked for your privacy
+settings. And that's exactly what Facebook, Google and other
+tech giants are counting on.
+
+1. Anyone can see all your Facebook friends and all the weird
+   pages you follow.  That includes employers, stalkers, identity
+   thieves and quite possibly your mother.
+
+  o On your phone's Facebook app, tap the button with three lines,
+    then scroll to Settings & Privacy, then tap Settings, and then
+    Privacy Settings.  Or use this link on the Web.[1]  Then switch
+    Who can see your friends list from Public to Friends — or,
+    even better, Only me.
+
+    x Under toolbar > down arrow > Settings  > Privacy - Jun 6, 2018
+
+  o Do the same on that same page [2] with a separate setting for
+    Who can see the people, Pages and lists you follow.
+
+  What you give up: Strangers being able to hunt you down or
+  discover your interests.
+
+  Unable to find the latter item.
+
+
+  2. I know what you did last summer … because when people tag
+  you in a photo or post, it automatically shows up on your timeline.
+
+  o In the Facebook app under Settings & Privacy, then Settings,
+    then Timeline and Tagging (or at this link on the Web)[3] switch
+    On the option Review posts you're tagged in before the post
+    appears on your timeline.
+
+  What you give up: Letting others post on your behalf — at least
+  until you approve each post.
+
+  x Under toolbar > down arrow > Settings  > Privacy > Timeline and Tagging- Jun 6, 2018
+
+
+  3. Your face belongs to Facebook. By default, it scans all the photos
+     and video you share to create digital face IDs — unless you tell
+     them hands off your mug.
+
+     o In the Facebook app under Settings & Privacy, then Settings, then
+       Face Recognition (or at this link on the Web)[4] switch to No  under
+       Do you want Facebook to be able to recognize you in photos and videos?
+
+     What you give up: Facebook won't recommend tagging you in photos,
+     and won't give you a heads up when someone else posts a photo of you.
+
+     Do not find face recognition setting.
+
+  4. Don't give it all away to Facebook advertisers, either.  Reminder:
+     Each member in North America was worth $82 in advertising to Facebook
+     in 2017.
+
+     Advertisers can use very personal data to target you, making Facebook
+     ads even creepier than they have to be.
+
+     o In the Facebook app's Settings & Privacy menu, tap Settings, then
+       Ad Preferences (or use this link on the Web).  Then tap open the
+       section called Your information. There, switch Off ads based on
+       your relationship status, employer, job title and education.
+
+     o While you're in Ad Preferences, head down to Ad settings and
+       switch to Not allowed for Ads based on data from partners
+       and Ads based on your activity on Facebook Company Products
+       that you see elsewhere.
+
+     What you give up: More "relevant" ads, which is more of a problem
+     for advertisers than for you
+
+     x Updated ad profile May 6, 2018
+
+  5. Surprise, you're starring in Facebook ads!  Did your
+     check not arrive in the mail?  Oh right: Just by "liking"
+     a page, you give Facebook advertisers permission to use
+     your name in ads they show your friends — and you don't
+     get a dime.
+
+     o On your phone under Settings & Privacy, then Settings,
+       then Ad Preferences (or at this link on the Web) tap 
+       open Ads Settings and switch to No One the setting for
+       Ads that include your social actions.
+
+   What you give up: Use of your name by a company you might
+   not actually care very much about.
+  
+   x Updated ad profile May 6, 2018
+
+   6... Need to complete google section.
+
+
 
 Links
 =====
+[1] this link on the Web
+    https://www.facebook.com/settings?tab=privacy
+
+[2] on that same page
+    https://www.facebook.com/settings?tab=privacy
+
+[3] at this link on the Web
+    https://www.facebook.com/settings?tab=timeline
+
+[4] at this link on the Web
+    https://www.facebook.com/settings?tab=facerec
+
 If You Care About Data, Change These 15 Default Privacy Settings Right Now
 Say no to defaults.
 by Geoffrey A. Fowler, The Washington Post
